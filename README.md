@@ -1,4 +1,4 @@
-# Simple React Applcation using hooks , and Json Server
+# Simple React Application using hooks , and Json Server
 
 # For run the application do this 
 
